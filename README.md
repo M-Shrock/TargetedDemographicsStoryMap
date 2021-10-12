@@ -3,7 +3,7 @@
 Project location:
 https://csusm-gis-lab.maps.arcgis.com/apps/MapSeries/index.html?appid=307fb64421134faa85b987d380831f64
 
-Econ 481-11
+Econ 481-11: Introduction to Spatial Analysis in Economics
 Fall 2020 
 Dr. Freer
 California State University San Marcos
